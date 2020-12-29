@@ -1,12 +1,12 @@
 /*
  *
- * Steven S. Skiena, "The Algorithm Design Manual" 3d edition
+ * Steven S. Skiena, "The Algorithm Design Manual", 3d edition
  *
- * Implementation in C++
+ * Implementation in C++.
  *
- * Here: Insertion Sort (page 4)
+ * Here: Insertion Sort (page 4).
  *
- * Todo: An implemantation using concepts.
+ * Todo: An implementation using concepts.
  * */
 
 
