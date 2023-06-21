@@ -1,0 +1,2 @@
+#!/bin/bash
+nasm -felf64 insertion_sort.asm && ld insertion_sort.o  && ./a.out
